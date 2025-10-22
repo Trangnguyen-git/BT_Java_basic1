@@ -5,10 +5,7 @@ public class a2 {
         String companyLocal = "Padi_TB";
         int ageLocal = 24;
 
-
-
-        
-        System.out.println("Ten toi la: " + nameLocal);
+        System.out.println("Ten toi la: Testtttttttttt" + nameLocal);
         System.out.println("Lam tai: " + companyLocal);
         System.out.println("Nam nay: " + ageLocal + " tuoi");
     }

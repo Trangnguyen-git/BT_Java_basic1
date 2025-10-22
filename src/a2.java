@@ -56,7 +56,7 @@ public class a2 {
 
         thongtinSV.showStudent_Instance();
         thongtinSV.showStudent_Static();
-        thongtinSV.showStudent_Static();// them moi
+        thongtinSV.showStudent_Static();// them moi 123412341234
 
 
     }
